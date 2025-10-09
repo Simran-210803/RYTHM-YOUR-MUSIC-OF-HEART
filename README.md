@@ -1,6 +1,6 @@
 # Rhythm: Your Music of Heart
 
-A ?**Spotify-inspired web music player** built using **HTML, CSS, and JavaScript**.  
+**Spotify-inspired web music player** built using **HTML, CSS, and JavaScript**.  
 It offers a clean, minimal, and responsive UI where users can play, pause, and enjoy music.
 
 ---
