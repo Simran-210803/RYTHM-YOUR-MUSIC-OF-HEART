@@ -27,6 +27,12 @@ It offers a clean, minimal, and responsive UI where users can play, pause, and e
 
 ---
 
+## 🎮 Live Demo
+👉 [Play Rhythm Online](https://simran-210803.github.io/RYTHM-YOUR-MUSIC-OF-HEART/)
+
+---
+
 ## Author
-**Simran-210803**
-[GitHub](https://github.com/Simran-210803)
+**Simranpreet Kaur**
+- simranpreet4248@gmail.com 
+- [GitHub](https://github.com/Simran-210803)
